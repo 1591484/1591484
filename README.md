@@ -1,14 +1,4 @@
 ### Hi there 👋
 
-![bce's stats]soulnull's GitHub Stats
-A+
-Total Stars Earned:
-4
-Total Commits (2021):
-13
-Total PRs:
-0
-Total Issues:
-8
-Contributed to:
-1
+![Sarthak's stats](https://github-readme-stats.vercel.app/api?username=SAnBlog&show_icons=true)
+
